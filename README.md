@@ -1,4 +1,4 @@
-# Hi there, I'm Bela Arany 👋
+# Hi there 👋
 
 I'm a fullstack developer located in Hungary. Coding is not only my job but it's my passion as well. I'm always excited about learning something new and acquiring new skills.
 
